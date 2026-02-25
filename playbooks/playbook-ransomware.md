@@ -27,7 +27,9 @@
 
 ## RESPUESTA INMEDIATA (Primeros 5 minutos)
 
-### 1. AISLAR INMEDIATAMENTE
+### 1. AISLAR INMEDIATAMENTE 
+
+## En caso de no poder aislar el equipo desde el antivirus ##
 
 ```powershell
 # NO APAGAR EL EQUIPO - AISLAR
@@ -42,8 +44,7 @@
 ### 2. NOTIFICACIÓN URGENTE
 
 **Contactar INMEDIATAMENTE:**
-- CISO: [tel emergencia]
-- Director TI: [tel emergencia]
+- Seguridad: 01336
 
 **Template de mensaje:**
 ```
@@ -328,7 +329,7 @@ PRÓXIMOS PASOS:
 Tiempo estimado de resolución: [PLAZO]
 
 Si tiene preguntas, contacte a:
-[CISO] - [email] - [tel]
+Equipo de Ciberseguridad - grp_seguridad@mec.gub.uy - 01336
 ```
 
 ### Dirección/Gerencia
@@ -360,7 +361,6 @@ PRÓXIMOS PASOS:
 3. Revisión de otros equipos del sector
 4. Actualización de controles
 
-[CISO]
 ```
 
 ---
@@ -432,4 +432,3 @@ ANTES DE CERRAR EL INCIDENTE:
 
 **Última revisión:** Febrero 2026  
 **Próxima revisión:** Agosto 2026  
-**Responsable:** CISO

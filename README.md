@@ -30,7 +30,7 @@
 
 1. **Clonar repositorio:**
 ```bash
-git clone https://github.com/[tu-usuario]/guia-rapida-ante-incidentes.git
+git clone https://github.com/lucioschiavoni/guia-rapida-ante-incidentes.git
 cd guia-rapida-ante-incidentes
 ```
 
@@ -199,9 +199,9 @@ cd guia-rapida-ante-incidentes
 ```
 1. Usuario reporta comportamiento sospechoso
    ↓
-2. [Help Desk] Ejecuta: 01-Triaje-Inicial.ps1
+2. [Soporte IT] Ejecuta: 01-Triaje-Inicial.ps1
    ↓
-3. [Help Desk] Revisa archivos generados
+3. [Soporte IT] Revisa archivos generados
    ↓
 4. Si detecta procesos sospechosos → ESCALAR
    ↓
@@ -314,15 +314,8 @@ Todos los scripts generan logs. Revisar en caso de errores.
 
 ---
 
-##  Soporte
-
 **Dudas o problemas:**
-- CISO: [tu-email]
-- Equipo Seguridad: [email]
-
-**Reportar bugs:**
-- Crear issue en GitHub
-- Email a: [tu-email]
+- Equipo Seguridad: grp_seguridad@mec.gub.uy
 
 ---
 
@@ -330,23 +323,11 @@ Todos los scripts generan logs. Revisar en caso de errores.
 
 **Última actualización:** Febrero 2026
 
-**Cambios recientes:**
-- Agregados scripts 01, 02, 05, 06
-- Mejorado script 03 con organización por carpetas
-- Agregado playbook de ransomware
-
 **Próximas mejoras:**
 - Playbook de phishing
 - Playbook de compromiso de credenciales
 - Script de análisis de memoria
 - Integration con Graylog para búsqueda automatizada
-
----
-
-##  Licencia
-
-Uso interno exclusivo - Ministerio de Educación y Cultura  
-No distribuir fuera de la organización
 
 ---
 
