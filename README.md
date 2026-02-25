@@ -30,7 +30,7 @@
 
 1. **Clonar repositorio:**
 ```bash
-git clone https://github.com/lucioschiavoni/guia-rapida-ante-incidentes.git
+git clone https://github.com/LucioSchiavoni/guia-rapida-ante-incidentes.git
 cd guia-rapida-ante-incidentes
 ```
 
